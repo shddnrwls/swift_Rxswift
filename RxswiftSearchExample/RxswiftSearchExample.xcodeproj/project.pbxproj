@@ -14,7 +14,6 @@
 		0435457A208990ED005F4941 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04354578208990ED005F4941 /* LaunchScreen.storyboard */; };
 		04F2A9E5208994940080DBFA /* CityTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F2A9E4208994940080DBFA /* CityTableViewCell.swift */; };
 		04F2A9E72089A7E50080DBFA /* ExtensionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F2A9E62089A7E50080DBFA /* ExtensionController.swift */; };
-		04F2A9E92089A87B0080DBFA /* Funcions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F2A9E82089A87B0080DBFA /* Funcions.swift */; };
 		738CBA94049FA42076A06767 /* Pods_RxswiftSearchExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2CA86FA98D30A0C7C8FB3FBC /* Pods_RxswiftSearchExample.framework */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		0435457B208990ED005F4941 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04F2A9E4208994940080DBFA /* CityTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityTableViewCell.swift; sourceTree = "<group>"; };
 		04F2A9E62089A7E50080DBFA /* ExtensionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionController.swift; sourceTree = "<group>"; };
-		04F2A9E82089A87B0080DBFA /* Funcions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Funcions.swift; sourceTree = "<group>"; };
 		2CA86FA98D30A0C7C8FB3FBC /* Pods_RxswiftSearchExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxswiftSearchExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B24B76C2E417C9303967A5B /* Pods-RxswiftSearchExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxswiftSearchExample.release.xcconfig"; path = "Pods/Target Support Files/Pods-RxswiftSearchExample/Pods-RxswiftSearchExample.release.xcconfig"; sourceTree = "<group>"; };
 		A0D376DB16FDB32DE48C239F /* Pods-RxswiftSearchExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxswiftSearchExample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RxswiftSearchExample/Pods-RxswiftSearchExample.debug.xcconfig"; sourceTree = "<group>"; };
@@ -69,7 +67,6 @@
 			children = (
 				0435456F208990EC005F4941 /* AppDelegate.swift */,
 				04354571208990EC005F4941 /* ViewController.swift */,
-				04F2A9E82089A87B0080DBFA /* Funcions.swift */,
 				04F2A9E62089A7E50080DBFA /* ExtensionController.swift */,
 				04F2A9E4208994940080DBFA /* CityTableViewCell.swift */,
 				04354573208990EC005F4941 /* Main.storyboard */,
@@ -211,7 +208,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04F2A9E92089A87B0080DBFA /* Funcions.swift in Sources */,
 				04F2A9E5208994940080DBFA /* CityTableViewCell.swift in Sources */,
 				04F2A9E72089A7E50080DBFA /* ExtensionController.swift in Sources */,
 				04354572208990EC005F4941 /* ViewController.swift in Sources */,
